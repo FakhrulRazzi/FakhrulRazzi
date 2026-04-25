@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi there, I'm Fakhrul
 
-<!--
-**FakhrulRazzi/FakhrulRazzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **About Me**  
+- 💻 I’m a Software Engineering Student at UTM
+- 🔭 Working on an Final Year Project related to AI Monitoring System
+- 🎯 Interests: **[AI, Web Dev, Mobile Apps, etc.]**  
+- 📫 Reach me at: **[muhammadfakhrul228@gmail.com]**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+**Languages:**  
+`JavaScript` | `Python` | `C++` | `Java`  
+
+**Frontend:**  
+`React` | `HTML` | `CSS` | `Tailwind`
+
+**Backend:**  
+`Node.js` | `Spring Boot`
+
+**Tools & Platforms:**  
+`Git` | `Firebase` | `AWS`
+
+---
+
+## 🌍 Connect With Me
+
+- 💼 LinkedIn: [www.linkedin.com/in/muhammad-fakhrul-razzi]   
+
+---
+
+## 🛠️ Featured Projects
+
+### 🔹 [Project Name]
+- Description: [What it does]
+- Tech: [Stack used]
+- Repo: https://github.com/YOUR_USERNAME/PROJECT
+
+### 🔹 [Another Project]
+- Description: [Short summary]
+- Tech: [Stack]
+- Repo: https://github.com/YOUR_USERNAME/PROJECT
