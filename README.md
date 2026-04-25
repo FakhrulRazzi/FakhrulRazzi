@@ -3,8 +3,8 @@
 🎯 **About Me**  
 - 💻 I’m a Software Engineering Student at UTM
 - 🔭 Working on an Final Year Project related to AI Monitoring System
-- 🎯 Interests: **[AI, Web Dev, Mobile Apps, etc.]**  
-- 📫 Reach me at: **[muhammadfakhrul228@gmail.com]**
+- 🎯 Interests: **AI, Web Dev, Mobile Apps Dev**  
+- 📫 Reach me at: **muhammadfakhrul228@gmail.com**
 
 ---
 
@@ -24,11 +24,13 @@
 
 ---
 
+
 ## 🌍 Connect With Me
 
-- 💼 LinkedIn: [www.linkedin.com/in/muhammad-fakhrul-razzi]   
+- 💼 LinkedIn: www.linkedin.com/in/muhammad-fakhrul-razzi   
 
 ---
+
 
 ## 🛠️ Featured Projects
 
