@@ -34,12 +34,12 @@
 
 ## 🛠️ Featured Projects
 
-### 🔹 [Project Name]
-- Description: [What it does]
-- Tech: [Stack used]
-- Repo: https://github.com/YOUR_USERNAME/PROJECT
+### 🔹 UTMGo+
+- Description: A web-based system to manage sport activites, facility bookings and event participation for UTM students.
+- Tech: React.js (Vite), Tailwind CSS, Supabase, PostgreSQL
+- Repo: [UTMGo+ Repository](https://github.com/muhammadharithhaikal/UTMGo)
 
 ### 🔹 MentalAman.co
 - Description: A web-based digital mental health literacy hub for university student.
 - Tech: Spring MVC, Thymeleaf, HTML, Hibernate, Tomcat
-- Repo: (https://github.com/AimanDanishh/SECJ3303-01-MentalAman.co)
+- Repo: [MentalAman.co Repository](https://github.com/AimanDanishh/SECJ3303-01-MentalAman.co)
