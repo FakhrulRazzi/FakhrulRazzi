@@ -39,7 +39,7 @@
 - Tech: [Stack used]
 - Repo: https://github.com/YOUR_USERNAME/PROJECT
 
-### 🔹 [Another Project]
-- Description: [Short summary]
-- Tech: [Stack]
-- Repo: https://github.com/YOUR_USERNAME/PROJECT
+### 🔹 MentalAman.co
+- Description: A web-based digital mental health literacy hub for university student.
+- Tech: Spring MVC, Thymeleaf, HTML, Hibernate, Tomcat
+- Repo: (https://github.com/AimanDanishh/SECJ3303-01-MentalAman.co)
